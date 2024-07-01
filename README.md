@@ -4,4 +4,4 @@
 Our Testing platform (3000+ active users) : https://ejaloacademy.com/
 Marketing Platform: https://www.facebook.com/ejaloacademy/
 
-[HERE](CERTIFICATE.png)
+![](CERTIFICATE.png)
